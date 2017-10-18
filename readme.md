@@ -11,7 +11,7 @@ En esta segunda parte, hemos realizado los siguientes casos:
  * Separandolo e indicandole nuevos valores a los elemento de modelo de cajas para adquirir el diseño indicado en el LMS.
 
 > Si no puedes volar, entonces corre,
->> si no puedes correr entonces camina, 
+> si no puedes correr entonces camina, 
 > si no puedes caminar entonces gatea,
->> pero hagas lo que hagas tienes que seguir adelante.
+> pero hagas lo que hagas tienes que seguir adelante.
 – Martin Luther King, Jr.
