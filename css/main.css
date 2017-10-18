@@ -1,0 +1,32 @@
+/* Se aplica un selector universal para el tamaño y tipo de letras*/
+*{
+  font-family:serif;
+  font-size: 16px;
+}
+
+
+div{
+  /* Display: se le asigna este atributo dado que "DIV" es un elemento bloque (ocupa todo ancho).*/
+  display: block;
+  /* Margin: se le atribuye ese valor para que los anchos no esten pegados entre si, sino que tengan un espacio.*/
+  margin: 10px;
+  /* Width: Se le otorga ese valor para que no ocupe toda el ancho en la pantalla.*/
+  width: 160px;
+  /*Height: Dado al la referencia indicada, se le da este valor para que tenga una altura decorde el ejemplo dado en el LMS*/
+  height: 110px;
+  /* Paddings: se le atribuye estos valores para que las palabras, "Laboratoria es Transformación", no esten pegadas a los rincones; sino que el usuario lo vea un estilo "flotante"*/
+  padding-left: 12px;
+  padding-right: 50px;
+  padding-top: 10px;
+}
+
+/*Al atributo tipo clase, se le asigna un color de fondo, pero no color de letra, ya que automaticamente se le asigna el color negro. */
+.Yellow_Two{
+  background-color: gold;
+}
+
+/*Al atributo tipo clase se le asigna un color de fondo y de letra */
+.Gray_Two{
+  background-color: DarkSlateGrey;
+  color: white;
+}
